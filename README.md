@@ -1,0 +1,1 @@
+# Predicting-whether-a-person-is-eligible-for-a-loan-or-not-using-german-credit-data
