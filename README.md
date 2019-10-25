@@ -1,1 +1,2 @@
 # Predicting-whether-a-person-is-eligible-for-a-loan-or-not-using-german-credit-data
+#### In this project, I used a few machine learning algorithms to predict whether a person can get a loan or not. I used a german credit dataset for implementing a decision tree and random forest. I  analyzed the performance of models using the AUC curve. Some beautiful plots from the decision tree have been attached to this repository.
